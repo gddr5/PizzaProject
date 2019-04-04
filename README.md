@@ -24,7 +24,10 @@ Es wurden folgende Kernaspekte berücksichtigt:
 ---How to operate---
 
 1. Start Server.py (Es wird python3 mit dem Modul "requests" benötigt)
-2. tbd
+pip install python-telegram-bot --upgrade
+pip install request --upgrade
+pip install pip --upgrade
+2. tg_bot
 
 
 Umgebung feststellen:
